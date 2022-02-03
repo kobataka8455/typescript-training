@@ -25,7 +25,13 @@
 // console.log('Function parameters sample 5: Total price:', sum);
 
 // オブジェクトの関数
-import objectSample from './object/object';
-import typeAliasSample from './object/alias';
-objectSample();
-typeAliasSample();
+// import objectSample from './object/object';
+// import typeAliasSample from './object/alias';
+// objectSample();
+// typeAliasSample();
+
+// 配列
+import arraySample from './array/array';
+import tupleSample from './array/tuple';
+arraySample();
+tupleSample();
